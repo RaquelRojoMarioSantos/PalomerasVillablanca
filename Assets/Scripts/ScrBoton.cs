@@ -13,6 +13,6 @@ public class ScrBoton : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("Este es un cambio");
     }
 }
